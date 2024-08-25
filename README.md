@@ -24,6 +24,7 @@ Create an AI-driven adaptive learning platform that personalizes educational con
 - Node.js (Backend)
 - Express (Web Application Framework)
 - FastAPI
+- Postgres
 - LangChain
 - YouTube Transcript API
 - Groq AI
@@ -34,7 +35,7 @@ Create an AI-driven adaptive learning platform that personalizes educational con
 A step-by-step series of examples that tell you how to get a development environment running:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Hack24
+   git clone https://github.com/SanskarGithub07/Hack-24
 2. Install backend dependencies:
    npm install
 3. Install frontend dependencies:
